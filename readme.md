@@ -7,6 +7,8 @@ This card was inspired from the [Heatmap card for Home Assistant](https://github
 <img alt="Default colors" src="images/dashboard.png">
 
 ## Disclaimer
+This software consists solely of the file `fch-highcharts-heatmap-card.js` and is provided free of charge for unrestricted use. Users are permitted to use, modify, and distribute this file without any limitations or restrictions. Please note that Highcharts is not included with this software and must be downloaded separately.
+
 This software is provided "as is" without any representations or warranties, express or implied. The user of this software assumes all responsibility and risk for the use of this software and any associated services or documentation.
 
 In no event shall the creator of this software be liable for any damages whatsoever (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use this software, even if the creator of this software has been advised of the possibility of such damages.
