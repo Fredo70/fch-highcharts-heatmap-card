@@ -78,7 +78,7 @@ It'll pick a card `title` based on the name of the entity and present the defaul
 | type     | YES      | Type of card |  | `fch-highcharts-heatmap-card`
 | entity   | YES      | Entity ID to show | | |
 | days     |          | Number of days to show | 21 |  |
-| chartHeight |          | High of the chart without/with title | 300 / 352 |  |
+| chartHeight |          | Height of the chart without/with title in chart | 300 / 352 |  |
 | titleInChart | | If the title is in the chart or in the card | `true` | |
 | data |  | See next table | | |
 
